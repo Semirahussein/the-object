@@ -15,7 +15,7 @@ class theFirst {
                 // thebook.author = ;
                 // thebook.publishedDate = LocalDate.parse();
                 // thebook.age();
-                System.out.printf("%s was born in : %s. and she is now %d years old.",
+                System.out.printf("%s was born in whatever is: %s. and she is now %d years old.",
                                 freshman.studname, freshman.birth.toString(), freshman.age());
                 System.out.printf("%s has got merried with %s and he was born in %s and now he is %d years old.",
                                 unfreshman.studname, freshman.studname, unfreshman.birth.toString(), unfreshman.age());
